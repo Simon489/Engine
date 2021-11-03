@@ -1,4 +1,5 @@
 # Ångmaskin Simon TEINF21A
+### Notera allt på denna sida är gjort av mig själv, detta är alltså min inlämning inte hela gruppens. Alla filer finns här ovanför om du skulle vilja ladda ned dem.
 ## Assemblies:
 ### Crank Assembly
 ![Crank Assembly](/Assemblies/Bilder/Crank_Render.png)
@@ -24,7 +25,8 @@ https://user-images.githubusercontent.com/93034098/139907530-394d16aa-1a06-40eb-
 
 https://user-images.githubusercontent.com/93034098/139486198-0d298e92-b14a-4a0c-b7ef-0cb5602bbd81.mov
 
-### Notera allt på denna sida är gjort av mig själv, detta är alltså min inlämning inte hela gruppens. Alla filer finns här ovanför om du skulle vilja ladda ned dem.
+### Nedladningar till videorna ovanför i full kvalite https://drive.google.com/file/d/1N-sfZlroeo5xj4IpacIFw1hZi-tV5YjF/view?usp=sharing & https://drive.google.com/file/d/1B_4M3QTH4F8e3GNTmHbj_uLPKYE0R3nU/view?usp=sharing
+
 ## Ritningar:
 ### Riting 1
 ![Ritning Part 1](/Ritningar/Bilder/1.png)
